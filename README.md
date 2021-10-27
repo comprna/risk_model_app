@@ -1,5 +1,7 @@
 # B-ALL risk model app
 
+Available at: [LINK COMING SOON]
+
 This interactive web application allows to calculate risk scores for patients according to the model from our publication [REF coming soon].
 
 ## Input options
