@@ -1,6 +1,6 @@
 # B-ALL risk model app
 
-Available at: [LINK COMING SOON]
+Available from [this link](https://aclosa.shinyapps.io/bALL_predictor_model/)
 
 This interactive web application allows to calculate risk scores for patients according to the model from our publication [REF coming soon].
 
@@ -20,6 +20,8 @@ Please indicate the following in the upload panel:
 * Header: wether the data contains a header. Headers with the sample identifiers are recommended.
 * Genes as rownames: if genes are the rownames of the provided dataframe (gene column does not have a column name) please tick this box. Otherwise, if the column containing gene indentifiers has a column name (i.e. Genes, GeneID, etc.) please untick this box.
 * Separator: indicate the separator in your input file
+
+Sample files for the supported input formats can be found in the sample_input_files folder. 
                     
 ### Missing genes
 
