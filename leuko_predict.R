@@ -203,6 +203,10 @@ server <- function(input, output, session) {
         if (input$asrownames == F) {
           rownames(d) = d[,1]
           d = d[,-1]
+          #Add standard colnames when no header is provided
+          if (input$header == F) {
+            colnames(d) = paste("Sample", c(1:ncol(d)), sep = "_")
+          }
         }
       }
       d
