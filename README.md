@@ -1,5 +1,7 @@
 # B-ALL risk model app
 
+Available at: [LINK COMING SOON]
+
 This interactive web application allows to calculate risk scores for patients according to the model from our publication [REF coming soon].
 
 ## Input options
@@ -24,7 +26,7 @@ Please indicate the following in the upload panel:
 Genes that cannot be mapped will be assigned a missing value. This can affect the performance of the model. We recomend checking gene identifiers
 
 ### Score threshold
-Threshold to be used to classify between high and low risk. By default 0.7 is selected (for further details see publication). Patients above threshold should be classified as high-risk and patients below the threshold as low-risk.
+Threshold to be used to classify between high and low risk. By default 0.7 is selected (for further details see publication). Patients above the threshold should be classified as high-risk and patients below the threshold as low-risk.
 
 ## Outputs
 
