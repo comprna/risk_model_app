@@ -2,7 +2,7 @@
 
 Available from [this link](https://aclosa.shinyapps.io/bALL_predictor_model/)
 
-This interactive web application allows to calculate risk scores for patients according to the model from our publication [REF coming soon].
+This interactive web application allows to calculate risk scores for patients according to the model from our [pre-print](https://www.biorxiv.org/content/10.1101/2021.12.13.472370v3).
 
 ## Input options
 
